@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Palindrome number 
+public class Palindromenumber 
 {
     public static void main(String[] args) 
     {
