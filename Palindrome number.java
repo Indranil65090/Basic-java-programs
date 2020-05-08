@@ -1,6 +1,8 @@
 import java.util.Scanner;
-public class Pallindromenumber {
-    public static void main(String[] args) {
+public class Palindrome number 
+{
+    public static void main(String[] args) 
+    {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the number from user:");
         int n=sc.nextInt();
